@@ -24,7 +24,7 @@ void loop() {
         lcd.print("ERROR");
         lcd.clear();
         return;
-    }
+    } //kiem tra tin hieu loi
 
     lcd.print("DOAM:");
     lcd.print(h);
